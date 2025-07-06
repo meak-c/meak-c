@@ -14,7 +14,7 @@ Python / GitHub / Webアプリ開発 などを中心にスキルアップ中！
 ---
 
 ## 📦 公開アプリ
-- 🔗 [最も近い素数を探すアプリ](https://primefinderapp-xxxxxxxxxxxxxxxx.streamlit.app)
+- 🔗 [最も近い素数を探すアプリ](https://primefinderapp-lzuztwr6zyj6qlhptjowfy.streamlit.app/)
 
 ---
 
