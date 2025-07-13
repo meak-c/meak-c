@@ -15,6 +15,7 @@ Python / SQL / Webアプリ開発 などを中心にスキルアップ中！
 
 ## 📦 公開アプリ
 - 🔗 [最も近い素数を探すアプリ](https://primefinderapp-lzuztwr6zyj6qlhptjowfy.streamlit.app/)
+- 🔗 [数字パズル（Make 10）を解くアプリ](https://make10-puzzle-solver.onrender.com/)
 
 ---
 
